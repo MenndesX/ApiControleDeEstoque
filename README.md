@@ -127,7 +127,7 @@ Contribuições são bem-vindas! Para contribuir, faça um fork do projeto, crie
 
 Para dúvidas ou sugestões, entre em contato:  
 **Anderson Mendes** — [linkedin.com/in/menndesx](https://www.linkedin.com/in/anderson-mendes-34880724a)  
-Email: seuemail@example.com
+
 
 ---
 
